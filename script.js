@@ -1,7 +1,6 @@
 // 影片列表，請將你的影片檔案放在同一個目錄下，並將檔名寫在這裡
 const videoList = [
-    'video1.mp4',
-    'https://drive.google.com/uc?export=download&id=1aS7z1gUrsDAc-JJe1A1F8rIWANGR0jUP'
+    'https://drive.google.com/uc?export=download&id=1aS7z1gUrsDAc-JJe1A1F8rIWANGR0jUP',
     'video2.mp4',
     'video3.mp4'
 ];
@@ -68,4 +67,5 @@ document.addEventListener('DOMContentLoaded', () => {
     loadVideo(currentVideoIndex);
 
 });
+
 

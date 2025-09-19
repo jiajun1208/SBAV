@@ -68,3 +68,4 @@ document.addEventListener('DOMContentLoaded', () => {
     loadVideo(currentVideoIndex);
 
 });
+
